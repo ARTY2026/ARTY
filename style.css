@@ -197,6 +197,7 @@ h4{
     width: 50%;
     height: 50%;
 }
+
 .footer .box-contai{
     display: flex;
     flex-wrap: wrap;
@@ -219,15 +220,10 @@ h4{
     padding: 1rem 0;
 }
 
-
 .footer .box-contai .boxxx a:hover{
     color: var(--gold-finger);
     text-decoration: underline;
 }
-
-
-
-/*font style*/
 
 
 
