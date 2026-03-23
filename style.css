@@ -197,7 +197,32 @@ h4{
     width: 50%;
     height: 50%;
 }
+.footer .box-contai{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+}
 
+.footer .box-contai .boxxx{
+    flex: 1 1 25rem;
+}
+.footer .box-contai .boxxx h3{
+    color:var(--gold-finger);
+    font-size: 2.5rem;
+    padding: 1rem 0;
+}
+
+.footer .box-contai .boxxx a{
+    display: block;
+    color: #666;
+    font-size: 1.5rem;
+    padding: 1rem 0;
+}
+
+.footer .box-contai .boxxx a:hover{
+    color: var(--gold-finger);
+    text-decoration: underline;
+}
 
 
 
